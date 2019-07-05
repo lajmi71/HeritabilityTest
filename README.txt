@@ -1,0 +1,1 @@
+You need to run the file Appli.1.R to run an example of the heritability test.
